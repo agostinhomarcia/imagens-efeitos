@@ -1,6 +1,6 @@
 #### Efeito em imagens trabalhando com efeitos css e javascript
 
-<a href=" " target="_blank" >  Imagens com Efeito</a>
+<a href="https://agostinhomarcia.github.io/imagens-efeitos/  " target="_blank" >  Imagens com Efeito</a>
 
 
 [<img src="src/img/tela-imagens.gif">]
