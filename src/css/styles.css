@@ -1,0 +1,40 @@
+body{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #171719;
+}
+
+section{
+    width: 100%;
+    display: grid;
+    place-content: center;
+    padding: 4%;
+}
+
+div{
+    width: 100%;
+    max-width: 700px; 
+    border-radius: 15px;
+    margin: 2%;
+
+}
+img{
+    width: 100%;
+    max-width: 700px;
+    height: 400px auto;
+}
+
+.efeito-1{
+    transform: translate(-80%, 80%);
+    opacity: 1;
+}
+.efeito-2{
+    transform: translate(80%, 80%);
+    opacity: 1;
+}
+
+.faz-efeito{
+    transform: translate(0%, 0%);
+    opacity: 1;
+    transition: 1s;
+}
